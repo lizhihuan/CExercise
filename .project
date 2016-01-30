@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Exercise</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.genmakebuilder</name>
+			<triggers>clean,full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>org.eclipse.cdt.managedbuilder.core.ScannerConfigBuilder</name>
+			<triggers>full,incremental,</triggers>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.cdt.core.cnature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.managedBuildNature</nature>
+		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>data</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>data/100.atr</name>
+			<type>1</type>
+			<location>D:/我的公司/data/100.atr</location>
+		</link>
+		<link>
+			<name>data/100.dat</name>
+			<type>1</type>
+			<location>D:/我的公司/data/100.dat</location>
+		</link>
+		<link>
+			<name>data/100.hea</name>
+			<type>1</type>
+			<location>D:/我的公司/data/100.hea</location>
+		</link>
+		<link>
+			<name>data/MIT-BIH Arrhythmia Database 说明.pdf</name>
+			<type>1</type>
+			<location>D:/我的公司/data/MIT-BIH Arrhythmia Database 说明.pdf</location>
+		</link>
+		<link>
+			<name>data/archive0.nat</name>
+			<type>1</type>
+			<location>D:/我的公司/data/archive0.nat</location>
+		</link>
+	</linkedResources>
+</projectDescription>
